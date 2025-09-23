@@ -1,0 +1,6 @@
+"TransID,CustomerID,Date,Amount,Status"
+"T001,C101,2024-05-01,1000,Completed"
+"T002,C101,2024-06-15,500,Cancelled"
+"T003,C102,2024-05-22,1250,Completed"
+"T004,C103,2024-07-10,300,Completed"
+"T005,C105,2024-08-05,750,Completed"

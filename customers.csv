@@ -1,0 +1,5 @@
+"CustomerID,Name,Region"
+"C101,Alice,North"
+"C102,Bob,South"
+"C103,,East"
+"C104,David,West"
